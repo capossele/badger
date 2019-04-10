@@ -28,9 +28,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dgraph-io/badger"
-	"github.com/dgraph-io/badger/options"
-	"github.com/dgraph-io/badger/y"
+	"github.com/capossele/badger"
+	"github.com/capossele/badger/options"
+	"github.com/capossele/badger/y"
 	"github.com/spf13/cobra"
 )
 

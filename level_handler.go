@@ -21,8 +21,8 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/dgraph-io/badger/table"
-	"github.com/dgraph-io/badger/y"
+	"github.com/capossele/badger/table"
+	"github.com/capossele/badger/y"
 	"github.com/pkg/errors"
 )
 
